@@ -5,4 +5,4 @@ class B(A):
 class C(B):
     pass
 
-a=A(10)
+a=A()
